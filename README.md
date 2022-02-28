@@ -6,8 +6,6 @@
 =======
 # TIL
 Today I Learned 
-
-
 Day 02
 Today I Learned
 : GIT 의 사용 방법에 대해서 수업을 들었습니다.
@@ -25,3 +23,7 @@ git status 을 입력한다. git 의 상태를 확인한다는 것이다.
 git commit -m "ABC commit " 을 입력한다. git의 상태에 대한 
 메시지를 입력하는 것이다.
 git push origin master 을 입력한다. 오픈 소스에 내가 한 파일이 올라간다. 
+---
+# TIL
+- 1일차 깃허브
+- typora 실습
