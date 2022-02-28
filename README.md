@@ -6,7 +6,7 @@
 =======
 # TIL
 Today I Learned 
->>>>>>> 1b2273151568bb9c53c82dde1a451d95bc92be90
+
 
 Day 02
 Today I Learned
